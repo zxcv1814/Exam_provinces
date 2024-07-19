@@ -1,0 +1,13 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua tệp biên dịch TypeScript
+dist/
+*.tsbuildinfo
+
+# Bỏ qua tệp môi trường
+.env
+
+# Bỏ qua tệp log
+*.log
+
